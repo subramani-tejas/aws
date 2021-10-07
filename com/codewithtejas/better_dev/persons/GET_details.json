@@ -1,0 +1,40 @@
+{
+   "version":"2.0",
+   "routeKey":"GET /getPerson",
+   "rawPath":"/getPerson",
+   "rawQueryString":"personID=123",
+   "headers":{
+      "accept":"*/*",
+      "accept-encoding":"gzip, deflate, br",
+      "content-length":"0",
+      "host":"jni4625pmd.execute-api.us-east-1.amazonaws.com",
+      "postman-token":"9c8d5e78-bc58-45c9-a765-52b1791de8b0",
+      "user-agent":"PostmanRuntime/7.28.4",
+      "x-amzn-trace-id":"Root=1-615f2acd-47227f8a270c345d281bdd7a",
+      "x-forwarded-for":"72.227.89.49",
+      "x-forwarded-port":"443",
+      "x-forwarded-proto":"https"
+   },
+   "queryStringParameters":{
+      "personID":"123"
+   },
+   "requestContext":{
+      "accountId":"028415855669",
+      "apiId":"jni4625pmd",
+      "domainName":"jni4625pmd.execute-api.us-east-1.amazonaws.com",
+      "domainPrefix":"jni4625pmd",
+      "http":{
+         "method":"GET",
+         "path":"/getPerson",
+         "protocol":"HTTP/1.1",
+         "sourceIp":"72.227.89.49",
+         "userAgent":"PostmanRuntime/7.28.4"
+      },
+      "requestId":"G2OgMjkwIAMEMpg=",
+      "routeKey":"GET /getPerson",
+      "stage":"$default",
+      "time":"07/Oct/2021:17:13:49 +0000",
+      "timeEpoch":1633626829861
+   },
+   "isBase64Encoded":false
+}
