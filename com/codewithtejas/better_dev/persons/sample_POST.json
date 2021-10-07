@@ -1,0 +1,39 @@
+{
+   "version":"2.0",
+   "routeKey":"POST /createPerson",
+   "rawPath":"/createPerson",
+   "rawQueryString":"",
+   "headers":{
+      "accept":"*/*",
+      "accept-encoding":"gzip, deflate, br",
+      "content-length":"38",
+      "content-type":"text/plain",
+      "host":"jni4625pmd.execute-api.us-east-1.amazonaws.com",
+      "postman-token":"ea8c98b6-fecc-44d1-b7e2-3c0abd7a2bf2",
+      "user-agent":"PostmanRuntime/7.28.4",
+      "x-amzn-trace-id":"Root=1-615f379a-25d3b058235e01cb20dbe4ef",
+      "x-forwarded-for":"72.227.89.49",
+      "x-forwarded-port":"443",
+      "x-forwarded-proto":"https"
+   },
+   "requestContext":{
+      "accountId":"028415855669",
+      "apiId":"jni4625pmd",
+      "domainName":"jni4625pmd.execute-api.us-east-1.amazonaws.com",
+      "domainPrefix":"jni4625pmd",
+      "http":{
+         "method":"POST",
+         "path":"/createPerson",
+         "protocol":"HTTP/1.1",
+         "sourceIp":"72.227.89.49",
+         "userAgent":"PostmanRuntime/7.28.4"
+      },
+      "requestId":"G2WgLhcmoAMEMJA=",
+      "routeKey":"POST /createPerson",
+      "stage":"$default",
+      "time":"07/Oct/2021:18:08:26 +0000",
+      "timeEpoch":1633630106545
+   },
+   "body":"{\n    \"name\": \"dan\",\n    \"age\": \"24\"\n}",
+   "isBase64Encoded":false
+}
