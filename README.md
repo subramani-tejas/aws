@@ -1,7 +1,7 @@
 # aws
 aws projects
 
-persons - 
+better_dev/persons - 
 Client <---> API Gateway <---> Lambda
 
 anohana -
