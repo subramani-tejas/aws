@@ -1,0 +1,39 @@
+{
+   "version":"2.0",
+   "routeKey":"POST /anohana_LF/postDetails",
+   "rawPath":"/anohana_LF/postDetails",
+   "rawQueryString":"",
+   "headers":{
+      "accept":"*/*",
+      "accept-encoding":"gzip, deflate, br",
+      "content-length":"42",
+      "content-type":"text/plain",
+      "host":"a8ljnpkai5.execute-api.us-east-1.amazonaws.com",
+      "postman-token":"ac12e6d5-174d-422c-8cd9-60840246b14d",
+      "user-agent":"PostmanRuntime/7.28.4",
+      "x-amzn-trace-id":"Root=1-615fc8eb-7206275344776c2e06be8efd",
+      "x-forwarded-for":"72.227.89.49",
+      "x-forwarded-port":"443",
+      "x-forwarded-proto":"https"
+   },
+   "requestContext":{
+      "accountId":"028415855669",
+      "apiId":"a8ljnpkai5",
+      "domainName":"a8ljnpkai5.execute-api.us-east-1.amazonaws.com",
+      "domainPrefix":"a8ljnpkai5",
+      "http":{
+         "method":"POST",
+         "path":"/anohana_LF/postDetails",
+         "protocol":"HTTP/1.1",
+         "sourceIp":"72.227.89.49",
+         "userAgent":"PostmanRuntime/7.28.4"
+      },
+      "requestId":"G3xUxhB7IAMEMXA=",
+      "routeKey":"POST /anohana_LF/postDetails",
+      "stage":"$default",
+      "time":"08/Oct/2021:04:28:27 +0000",
+      "timeEpoch":1633667307160
+   },
+   "body":"{\n    \"name\": \"robot\",\n    \"code\": \"007\"\n}",
+   "isBase64Encoded":false
+}
