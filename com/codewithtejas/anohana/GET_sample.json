@@ -1,0 +1,37 @@
+{
+   "version":"2.0",
+   "routeKey":"GET /anohana_LF/getDetails",
+   "rawPath":"/anohana_LF/getDetails",
+   "rawQueryString":"",
+   "headers":{
+      "accept":"*/*",
+      "accept-encoding":"gzip, deflate, br",
+      "content-length":"0",
+      "host":"a8ljnpkai5.execute-api.us-east-1.amazonaws.com",
+      "postman-token":"c5b329e3-b5f7-4c90-8604-42d63b69f254",
+      "user-agent":"PostmanRuntime/7.28.4",
+      "x-amzn-trace-id":"Root=1-615fb41e-6a10d7d8120189031f58cdd2",
+      "x-forwarded-for":"72.227.89.49",
+      "x-forwarded-port":"443",
+      "x-forwarded-proto":"https"
+   },
+   "requestContext":{
+      "accountId":"028415855669",
+      "apiId":"a8ljnpkai5",
+      "domainName":"a8ljnpkai5.execute-api.us-east-1.amazonaws.com",
+      "domainPrefix":"a8ljnpkai5",
+      "http":{
+         "method":"GET",
+         "path":"/anohana_LF/getDetails",
+         "protocol":"HTTP/1.1",
+         "sourceIp":"72.227.89.49",
+         "userAgent":"PostmanRuntime/7.28.4"
+      },
+      "requestId":"G3kUugAZoAMEMaQ=",
+      "routeKey":"GET /anohana_LF/getDetails",
+      "stage":"$default",
+      "time":"08/Oct/2021:02:59:42 +0000",
+      "timeEpoch":1633661982077
+   },
+   "isBase64Encoded":false
+}
