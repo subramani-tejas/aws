@@ -4,4 +4,8 @@
 2. Role --> anohana_Role | attach policy
 3. Lambda function --> anohana_LF
    - attach role
-   - logic to handle GET request
+   - logic to handle GET & POST request
+4. API Gateway --> anohana_API
+   - GET route
+   - POST route
+5. DynamoDB
