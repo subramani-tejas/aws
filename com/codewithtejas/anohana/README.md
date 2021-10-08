@@ -1,6 +1,6 @@
 # anohana
 
-![alt text](https://github.com/subramani-tejas/aws/blob/main/com/codewithtejas/anohana/anohana.jpg?raw=true)
+![alt text](https://github.com/subramani-tejas/aws/blob/main/com/codewithtejas/anohana/anohana.png?raw=true)
 
 1. Policy --> anohana | CloudWatch Logs & DynamoDB
 2. Role --> anohana_Role | attach policy
