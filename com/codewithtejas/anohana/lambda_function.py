@@ -1,12 +1,4 @@
-# pylint: disable=missing-module-docstring
-# pylint: disable=missing-function-docstring
-# pylint: disable=missing-module-docstring
-# pylint: disable=missing-class-docstring
-# pylint: disable=too-few-public-methods
-# pylint: disable=unused-import - W0611
-# pylint: disable=inconsistent-return-statements - R1710
-# pylint: disable=unused-argument - W0613
-# pylint: disable=invalid-name - C0103
+# pylint: disable-all
 
 import json
 import boto3
