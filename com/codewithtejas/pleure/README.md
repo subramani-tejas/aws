@@ -1,5 +1,7 @@
 # pleure
 
+![alt text](https://github.com/subramani-tejas/aws/blob/main/com/codewithtejas/pleure/initial%20POST.png?raw=true)
+
 1. Policy | pleure_un_policy | for both lambdas
    - CloudWatch logs - ALL
    - SQS - ALL
